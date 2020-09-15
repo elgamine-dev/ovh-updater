@@ -1,6 +1,8 @@
 Tell OVH how to reach home!
 ---
 
+Updates DNS records with OVH api to your WAN ip!
+
 ## Requirements
 
 - PHP 7+
